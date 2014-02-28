@@ -26,6 +26,14 @@ article {
     width:275px;
     margin:10px;
 }
+.title {
+    color:#000088;
+    font-family:Impact, serif;
+}
+.article {
+    color:#880000;
+    font-family:Helvetica, sans-serif;
+}
 aside li {
     list-style-type:none;
 }
